@@ -1,5 +1,13 @@
-#Here I am trying samples to learn how to use PowerShell jobs with Exchange tasks to accelerate
-# somes tasks.
+<# 
+.DESCRIPTION
+Here I am trying samples to learn how to use PowerShell jobs with Exchange tasks to accelerate somes tasks.
+.SYNOPSIS
+The below sample is taken from the follwing Web Site (see .LINK section)
+
+.LINK
+https://en.get-mailbox.org/using-powershell-background-jobs-can-help-you-speed-up-exchange-tasks-part-1/
+
+#>
 
 # Query all mailbox databases that are members of a DAG and that are not marked as
 #  recovery databases.
